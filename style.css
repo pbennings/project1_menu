@@ -34,11 +34,11 @@ main {
   padding-right: 240px;
 }
 
-footer {
+/* footer {
   background-color: rgba(0, 0, 0, 0.418);
   padding-top: 50px;
   padding-bottom: 50px;
-}
+} */
 
 h1 {
   font-size: 84px;
@@ -58,7 +58,7 @@ a {
 }
 
 footer p {
-  font-size: 10px;
+  font-size: 12px;
   text-align: center;
   color: rgba(197, 224, 247, 0.514);
 }
